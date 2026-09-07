@@ -1,0 +1,4 @@
+site_name: Psyverse 观测台
+site_description: psyverse.fun 中文宇宙观系列文档节点
+nav:
+  - 首页: index.md
