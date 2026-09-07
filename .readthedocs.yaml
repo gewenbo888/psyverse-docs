@@ -5,6 +5,6 @@ build:
     python: "3.11"
   jobs:
     post_install:
-      - pip install mkdocs-material
+      - pip install mkdocs mkdocs-material
 mkdocs:
   configuration: mkdocs.yml
